@@ -1,0 +1,3 @@
+# git-lesson2
+
+In this repo, I made a lemonade recipe...
